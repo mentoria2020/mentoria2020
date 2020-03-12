@@ -7,7 +7,7 @@ function ContainerMainComponent(props) {
       <ContainerComponentStack>
         <Group>
             <SubtitleContent>Bem Vindo</SubtitleContent>
-            <TitleContent>Acesse ao portal da Mentoria 2020</TitleContent>
+            <TitleContent>Acesse ao portal de projetos da Mentoria 2020</TitleContent>
             <ButtonPortal>
               <ButtonOverlay href="https://portal-mentoria2020.netlify.com/">
                 <TitleButton>Mentoria 2020</TitleButton>
