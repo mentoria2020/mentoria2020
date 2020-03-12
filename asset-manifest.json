@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mentoria2020/static/css/main.14aaca9a.chunk.css",
+    "main.js": "/mentoria2020/static/js/main.edbb81a5.chunk.js",
+    "main.js.map": "/mentoria2020/static/js/main.edbb81a5.chunk.js.map",
+    "runtime~main.js": "/mentoria2020/static/js/runtime~main.b6db723b.js",
+    "runtime~main.js.map": "/mentoria2020/static/js/runtime~main.b6db723b.js.map",
+    "static/js/2.8afb4bdd.chunk.js": "/mentoria2020/static/js/2.8afb4bdd.chunk.js",
+    "static/js/2.8afb4bdd.chunk.js.map": "/mentoria2020/static/js/2.8afb4bdd.chunk.js.map",
+    "index.html": "/mentoria2020/index.html",
+    "precache-manifest.3200476b1dd8d07d5b2edba8ddf487a0.js": "/mentoria2020/precache-manifest.3200476b1dd8d07d5b2edba8ddf487a0.js",
+    "service-worker.js": "/mentoria2020/service-worker.js",
+    "static/css/main.14aaca9a.chunk.css.map": "/mentoria2020/static/css/main.14aaca9a.chunk.css.map",
+    "static/media/Entypo.ttf": "/mentoria2020/static/media/Entypo.744ce600.ttf",
+    "static/media/EvilIcons.ttf": "/mentoria2020/static/media/EvilIcons.140c53a7.ttf",
+    "static/media/Feather.ttf": "/mentoria2020/static/media/Feather.ca9ce9ff.ttf",
+    "static/media/FontAwesome.ttf": "/mentoria2020/static/media/FontAwesome.b06871f2.ttf",
+    "static/media/Ionicons.ttf": "/mentoria2020/static/media/Ionicons.b2e0fc82.ttf",
+    "static/media/MaterialCommunityIcons.ttf": "/mentoria2020/static/media/MaterialCommunityIcons.6acc7d6c.ttf",
+    "static/media/MaterialIcons.ttf": "/mentoria2020/static/media/MaterialIcons.a37b0c01.ttf",
+    "static/media/Octicons.ttf": "/mentoria2020/static/media/Octicons.8e7f807e.ttf",
+    "static/media/SimpleLineIcons.ttf": "/mentoria2020/static/media/SimpleLineIcons.d2285965.ttf",
+    "static/media/image_bg.jpg": "/mentoria2020/static/media/image_bg.78d7aa03.jpg",
+    "static/media/style.css": "/mentoria2020/static/media/roboto-700.e07df86c.ttf"
+  }
+}
