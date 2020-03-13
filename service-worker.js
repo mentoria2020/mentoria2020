@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mentoria2020/precache-manifest.3200476b1dd8d07d5b2edba8ddf487a0.js"
+  "/mentoria2020/precache-manifest.3f21d1592361c936e544ce2c9a499491.js"
 );
 
 self.addEventListener('message', (event) => {
